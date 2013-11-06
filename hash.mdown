@@ -1,0 +1,15 @@
+**Hashes**
+==========
+
+**Basic Definition**
+
+A hash is an unordered collection of information where each stored value is accessed through a label(referred to as a 'key').
+
+**How To Create a Hash**
+
+<!-- Describe various options for instantiating a hash -->
+
+**Basic Components**
+
+A hash contains zero or more pairs of a 'key' and a 'value.'
+*ex:* 
